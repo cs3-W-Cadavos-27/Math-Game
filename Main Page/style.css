@@ -359,7 +359,7 @@ body.active { overflow-y: hidden; }
 \*-----------------------------------*/
 
 .hero {
-  background: url("../Main%20Page/plain%20bg.png") no-repeat;
+  background: url("plain%20bg.png") no-repeat;
   background-size: cover;
   background-position: top center;
   margin-top: 90px;
@@ -399,13 +399,13 @@ body.active { overflow-y: hidden; }
 \*-----------------------------------*/
 
 .section-wrapper {
-  background: url("../Main%20Page/section-wrapper-bg.jpg") no-repeat;
+  background: url("section-wrapper-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .about {
-  background: url("../Main%20Page/about-img-shadow.png") no-repeat;
+  background: url("about-img-shadow.png") no-repeat;
   background-size: 100%;
   background-position: center;
   padding: 120px 0 var(--section-padding);
@@ -537,7 +537,7 @@ body.active { overflow-y: hidden; }
 .newsletter { padding: var(--section-padding) 0 120px; }
 
 .newsletter-card {
-  background: url("../Main%20Page/newsletter-bg.jpg") no-repeat;
+  background: url("newsletter-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding: 50px 25px;
@@ -586,7 +586,7 @@ body.active { overflow-y: hidden; }
 \*-----------------------------------*/
 
 .footer-top {
-  background: url("../Main%20Page/footer-bg.jpg") no-repeat;
+  background: url("footer-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding: var(--section-padding) 0;
