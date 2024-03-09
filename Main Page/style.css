@@ -139,7 +139,7 @@ body.active { overflow-y: hidden; }
     src: url('./REFAULT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
          url('./REFAULT.woff') format('woff'), /* Modern Browsers */
          url('./REFAULT.woff2') format('woff2'), /* Modern Browsers */
-         url('../Main%20Page/REFAULT.ttf') format('truetype'); /* Safari, Android, iOS */
+         url('./REFAULT.ttf') format('truetype'); /* Safari, Android, iOS */
     font-style: italic;
     font-weight: normal;
     text-rendering: optimizeLegibility;
